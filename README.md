@@ -1,3 +1,7 @@
+## 🖼️ Dashboard Preview
+<!-- Replace sales analytics dashboard.png with your actual screenshot filename -->
+![Sales Analytics Dashboard](sales-analytics-dashboard.PNG)
+
 
 # 📊 Sales Analytics Dashboard — Power BI
 
@@ -27,10 +31,6 @@ This project presents an interactive Sales Analytics Dashboard built using Micro
 - Data Visualization
 - Business Intelligence
 - Interactive Dashboard Design
-
-## 🖼️ Dashboard Preview
-<!-- Replace sales analytics dashboard.png with your actual screenshot filename -->
-![Sales Analytics Dashboard](sales-analytics-dashboard.PNG)
 
 ## 💡 Key Learning
 This project helped me practice transforming sales data into interactive visual reports and presenting business performance indicators in a clear, user-friendly format.
