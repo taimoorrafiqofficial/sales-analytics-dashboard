@@ -29,8 +29,8 @@ This project presents an interactive Sales Analytics Dashboard built using Micro
 - Interactive Dashboard Design
 
 ## 🖼️ Dashboard Preview
-<!-- Replace sales analytics dashboard.png with your actual screenshot filename -->
-![Sales Analytics Dashboard](sales analytics dashboard.png)
+<!-- Replace sales analytics dashboard.png with your actual screenshot filename -->!
+[Sales Analytics Dashboard](sales-analytics-dashboard.png)
 
 ## 💡 Key Learning
 This project helped me practice transforming sales data into interactive visual reports and presenting business performance indicators in a clear, user-friendly format.
